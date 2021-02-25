@@ -1,5 +1,5 @@
 # kaggle-mab
-A collection of different agents I wrote for a kaggle competition(on multi armed bandit)
+A collection of different agents I wrote for a kaggle competition(on multi armed bandit) and a few publicly published ones.
 
 <a href="https://www.kaggle.com/c/santa-2020"> The competition page </a>
 
